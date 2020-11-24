@@ -10,7 +10,7 @@ Deny_Duel=&7You deny Duel
 Player_Deny_Duel=Player &e<PlayerDenyDuel> &rdeny duel!!
 Create_Arena=You create arena &a<ArenaName>
 No_Permission:=&4You don't have permission
-Player_Already_Have_Requests=&cAttention this player already has a duel request in progress'
+Player_Already_Have_Requests=&cAttention this player already has a duel request in progress
 Ask_Player=&7You just asked a duel with &e<player>
 Receive_Duel=&9You have received a duel request from &r<player>
 Player_Not_Connected=Player &c<PlayerNotConnected>&f it's not connected or not exist
@@ -21,6 +21,6 @@ Succesfull_Reload=&cYou have successfull reload the config!
 Broadcast_Duel_Win=&e<winner> &6won the duel against &e<loser>&6!
 Click_Button_Accept=&aClick to accept duel
 Click_Button_Deny=&cClick to deny duel
-Succesfull_Delete_Arena=&6You have been delete arena=&e<Arena>
+Succesfull_Delete_Arena=&6You have been delete arena: &e<Arena>
 No_Arena_Found=&6No arena is found.
 No_Argument_Delete_Arena=&6Please enter a arena to delete.
