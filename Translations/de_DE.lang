@@ -1,0 +1,22 @@
+#German translation by Cantibra
+Ask_Yourself=&cDu kannst dir selber keine Anfrage schicken.
+Start_Duel=&9Das Duell beginnt!
+Deny_Duel=&7Du hast das Duell verweigert.
+Player_Deny_Duel=Spieler &e<PlayerDenyDuel> &rhat das Duell verweigert.
+Create_Arena=Du hast die Arena &a<ArenaName> &ferstellt.
+No_Permission=&4Du hast keine Berechtigung, diesen Befehl auszuführen.
+Player_Already_Have_Requests=&cDieser Spieler hat bereits eine Duellanfrage erhalten.
+Ask_Player=&7Du hast dem Spieler &e<player> &7eine Duellanfrage geschickt.
+Receive_Duel=&9Du hast eine Duellanfrage von Spieler &r<player> &9erhalten.
+Player_Not_Connected=Spieler &c<PlayerNotConnected> &fist nicht verbunden oder existiert nicht.
+No_Arena_Available=&cKeine Arena verfügbar.
+Duel_Start_Title=&6Das Duell beginnt...
+Duel_Start_SubTitle=&eDein Gegner: &6<Player>
+Succesfull_Reload=&cDie Konfiguration wurde erfolgreich nachgeladen!
+Duel_Win=&6Spieler &e<player> &6hat das Duell gewonnen!
+Broadcast_Duel_Win=&6Der Spieler &e<winner> &6hat das Duell gegen &e<loser> &6gewonnen.
+Click_Button_Accept=&a&l[ Duell akzeptieren ]
+Click_Button_Deny=&c&l[ Duell ablehnen ]
+Succesfull_Delete_Arena=Die Arena &a<Arena> &fwurde aufgelöst.
+No_Arena_Found=Es wurde keine Arena gefunden.
+No_Argument_Delete_Arena=Bitte gebe eine Arena an.
